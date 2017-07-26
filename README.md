@@ -1,2 +1,3 @@
-# masterERP
-A complete Enterprise Resource Planning system to be developed in Bootstrap and PHP.
+# Projeto Master ERP
+
+Desenvolvimento completo de um sistema de Enterprise Resource Planning utilizando Bootstrap, PHP e MySQL.
